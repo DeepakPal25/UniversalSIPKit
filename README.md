@@ -128,6 +128,7 @@ xcodebuild -scheme UniversalSIPKit -destination 'generic/platform=iOS' build
 
 ## Documentation
 
+- [`docs/TECHNICAL.md`](docs/TECHNICAL.md) — full technical reference: the problem, the theory behind each layer, every runtime flow, the concurrency/event contracts, security, and the complete edge-case matrix.
 - [`docs/ENGINE-EVALUATION.md`](docs/ENGINE-EVALUATION.md) — Baresip vs PJSIP vs Linphone, licensing, and the build-vs-reuse analysis.
 - [`docs/BARESIP-POC.md`](docs/BARESIP-POC.md) — the Baresip integration proof-of-concept runbook and validation gates.
 
