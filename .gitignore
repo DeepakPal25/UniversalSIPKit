@@ -6,3 +6,9 @@ DerivedData/
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+
+# Baresip PoC: vendored engine source + build artifacts (not committed)
+/Vendor/re
+/Vendor/baresip
+/.build-baresip
+/Frameworks/*.xcframework
